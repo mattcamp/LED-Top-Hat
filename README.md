@@ -3,6 +3,8 @@ LED-Top-Hat
 
 This is the code for the LED Top hat which I built for Burning Man 2014.
 
+https://www.youtube.com/watch?v=03ouYCFLe_0
+
 It's designed to run on a Teensy3.1 with an Adafruit Electret microphone amp (MAX4466) and 5 metres of LPD8806 48LED/m strips.
 
 The strips are cut into 8 rows of 30 LEDs and laid out in a serpentine/S shaped pattern, meaning LED 0 is the top left corner, and 239 is the bottom right. 
